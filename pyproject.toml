@@ -1,10 +1,10 @@
 [project]
 name = "sandboxofgalen"
 version = "0.1.0"
-description = "Add your description here"
+description = "My sand"
 readme = "README.md"
 authors = [
-    { name = "galenseilis", email = "galen.seilis@seilis.ca" }
+    { name = "galenseilis" }
 ]
 requires-python = ">=3.13"
 dependencies = []
